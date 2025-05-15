@@ -1,1 +1,1 @@
-# lekcja
+Technikum SPSK
